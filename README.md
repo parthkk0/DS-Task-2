@@ -1,4 +1,4 @@
-# DataScience-Task (2)
+# DS - Task(2)
 
 
 Welcome to the Titanic Survival Analysis project! This project was done under prodigy infotech. This project provides an exploratory data analysis (EDA) of the Titanic dataset using Python. The goal is to gain insights into the factors that influenced survival rates during the tragic sinking of the Titanic. Below, we provide a detailed overview of the code and its components. 🌊🔍
